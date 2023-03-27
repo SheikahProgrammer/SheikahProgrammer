@@ -4,7 +4,7 @@
 <h3 align="center">A developer from India</h3>
 
 <div align="center">
-  <a href[="https://i.imgur.com/F5MjNKQ_d.webp?maxwidth=760&fidelity=grand">
+  <a href[="https://cdn.discordapp.com/attachments/931616719875743785/1089862356198248559/f968b36f-212e-417c-a48f-ff3a4b125095.png">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
