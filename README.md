@@ -1,3 +1,8 @@
+
+
+<h1 align="center">Hi 👋, I'm SheikahProgrammer</h1>
+<h3 align="center">A developer from India</h3>
+
 <div align="center">
   <a href="https://imgur.com/a/byeub5z">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -5,9 +10,6 @@
 </div>
 
 
-
-<h1 align="center">Hi 👋, I'm SheikahProgrammer</h1>
-<h3 align="center">A developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikahprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="sheikahprogrammer" /> </p>
 
