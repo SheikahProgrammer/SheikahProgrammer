@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm SheikahProgrammer</h1>
-<h3 align="center">A developer from India</h3>
+<h1 align="center">Hi, I'm SheikahProgrammer, Call me Sheikh</h1>
+<h3 align="center">A</h3>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -11,19 +11,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikahprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="sheikahprogrammer" /> </p>
-
-- 🔭 I’m currently working on [SheikahBot](https://github.com/SheikahProgrammer/SheikahBot)
-
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on [SheikahBot](https://github.com/SheikahProgrammer/SheikahBot)
-
-- 🤝 I’m looking for help with [SheikahBot](https://github.com/SheikahProgrammer/SheikahBot)
-
-- 📫 How to reach me **sheikahprogrammer@gmail.com**
-
-- ⚡ Fun fact **I love anime and gaming**
-
+- 📫 How to reach me **avinashnairofficialz@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sheikahprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikahprogrammer" height="30" width="40" /></a>
