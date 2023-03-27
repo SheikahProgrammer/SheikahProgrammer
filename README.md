@@ -1,5 +1,3 @@
-According to web search results, the markdown code for a GitHub profile is a file named README.md that you create in a public repository with the same name as your username. It uses GitHub Flavored Markdown (GFM) to format text and include emoji, images, and GIFs. You can also use some special features like code blocks, diagrams, mathematical expressions, auto linked references, task lists, and badges. To view the markdown code for a GitHub profile, you can open the README.md file in the repository and click on the Raw button. For example, here is the markdown code for the GitHub profile of SheikahProgrammer1:
-
 <h1 align="center">Hi 👋, I'm SheikahProgrammer</h1>
 <h3 align="center">A passionate developer from India</h3>
 
