@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Avinash</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <p align="left">
